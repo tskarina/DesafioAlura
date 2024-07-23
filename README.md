@@ -1,4 +1,4 @@
-# DesafioAlura
+DesafioAlura
 Desafio Alura: Criptografia de Texto
 Este é um projeto de desafio da Alura que visa criar uma aplicação web para criptografia e descriptografia de texto. A aplicação permite que o usuário digite um texto e escolha entre criptografar ou descriptografar, com a capacidade de copiar o resultado.
 
@@ -21,8 +21,10 @@ Arquivo JavaScript (não incluído neste exemplo) que deve conter a lógica para
 Como Executar
 Clone o Repositório:
 
+
 git clone https://github.com/seu-usuario/DesafioAlura.git
 Navegue para o Diretório do Projeto:
+
 
 cd DesafioAlura
 Abra o Arquivo index.html em um Navegador:
