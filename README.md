@@ -21,13 +21,9 @@ Arquivo JavaScript (não incluído neste exemplo) que deve conter a lógica para
 Como Executar
 Clone o Repositório:
 
-bash
-Copiar código
 git clone https://github.com/seu-usuario/DesafioAlura.git
 Navegue para o Diretório do Projeto:
 
-bash
-Copiar código
 cd DesafioAlura
 Abra o Arquivo index.html em um Navegador:
 
